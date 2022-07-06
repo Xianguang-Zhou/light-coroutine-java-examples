@@ -1,7 +1,7 @@
 /*
  * Copyright (c) 2022, Xianguang Zhou <xianguang.zhou@outlook.com>. All rights reserved.
  */
-package pers.zxg.coroutine.example.uppercaseserver;
+package pers.zxg.coroutine.example.uppercase.server;
 
 import static pers.zxg.coroutine.Coroutine.launch;
 import static pers.zxg.coroutine.vertx.core.VertxCoroutine.await;
